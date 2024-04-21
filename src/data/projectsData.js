@@ -27,10 +27,10 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'Calorie Tracker',
-        projectDesc: 'The project aimed to create a user-friendly Calorie Tracker application using a range of technologies, enabling features such as barcode scanning, calorie goal setting, and water intake tracking to enhance app functionality and user engagement.',
-        tags: ['Django', 'CSS', 'Python',"PostgreSQL",],
-        code: 'https://github.com/Jeevana-24/ccounter',
+        projectName: 'Health Wrap',
+        projectDesc: 'The project aimed to create a user-friendly Health Wrap application using a range of technologies, enabling features such as Product shopping, Reciepe finder,Workout Progress and Calorie intake tracking to enhance app functionality and user engagement.',
+        tags: ['Nodejs', 'Tailwind', 'React',"Mongodb","Express"],
+        code: 'https://github.com/Jeevana-24/OneHealth',
         image: three
     },
 ]

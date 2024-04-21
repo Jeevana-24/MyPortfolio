@@ -2,9 +2,9 @@ import resume from '../assets/pdf/resume.pdf'
 
 export const headerData = {
     name: 'Jeevana Thatagari',
-    title: " Software Developer",
-    desciption:"As a Developer with a passion for crafting seamless and innovative solutions, I bring a comprehensive skill set spanning front-end and back-end technologies. With a track record of successful projects, my expertise lies in developing scalable and user-centric applications that enhance user experience and drive business growth. Leveraging my diverse experience, I am dedicated to delivering cutting-edge solutions that bridge the gap between design and functionality, ensuring optimal performance and user satisfaction.",
-    image: '',
+    title: " Software Developer/FullStack Developer",
+    desciption:"As a developer with a passion for innovative solutions, I possess a broad skill set across front-end and back-end technologies. I specialize in creating scalable and user-centric applications that enhance user experience and drive business growth. My expertise also extends to AI, where I focus on integrating advanced solutions to bridge the gap between design and functionality, ensuring top performance and user satisfaction.",
+    image: `${process.env.PUBLIC_URL}/pic.jpg`,
     resumePdf: resume
 }
 

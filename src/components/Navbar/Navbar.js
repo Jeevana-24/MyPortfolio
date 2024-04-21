@@ -123,7 +123,7 @@ function Navbar() {
     const classes = useStyles();
 
     const shortname = (name) => {
-        if (name.length > 12) {
+        if (name.length > 20) {
             return name.split(' ')[0];
         } else {
             return name;
