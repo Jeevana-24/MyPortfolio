@@ -19,6 +19,7 @@ function App() {
 
           <Redirect to="/" />
         </Switch>
+        
       </Router>
       <BackToTop />
     </div>

@@ -33,6 +33,22 @@ export const projectsData = [
         code: 'https://github.com/Jeevana-24/OneHealth',
         image: three
     },
+    {
+        id: 4,
+        projectName: 'Earth Quake Prediction',
+        projectDesc: 'Develop a predictive model to forecast earthquake events using historical seismic data to enhance disaster preparedness and response efforts.',
+        tags: ["Python", "Pandas"," NumPy","MLModels","Javascript"],
+        code: 'https://github.com/Jeevana-24/Earthquake_Prediction',
+        image: four
+    },
+    {
+        id: 5,
+        projectName: 'Breast cancer Prediction',
+        projectDesc: 'Develop a machine learning model from scratch to accurately predict breast cancer diagnosis based on biopsies, enhancing early detection and treatment strategies.',
+        tags: ["Python","MLModels-Spectral clusturing"],
+        code: 'https://github.com/Jeevana-24/Earthquake_Prediction',
+        image: five
+    },
 ]
 
 
